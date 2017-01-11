@@ -17,5 +17,4 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
     sprintf(test_string, "Hello test %s\n",ip_str);
     MessageBox(NULL, test_string, "Programmed by Roan Fourie", MB_OK);
 
-
 }
